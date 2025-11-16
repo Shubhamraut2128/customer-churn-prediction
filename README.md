@@ -35,3 +35,9 @@ This project predicts whether a telecom customer will **churn or stay** based on
 ✔ Saving model as `.pkl`  
 
 ## 📁 Project Structure
+
+
+## 🚀 How to Run
+1. Clone repository  
+2. Install dependencies  
+
